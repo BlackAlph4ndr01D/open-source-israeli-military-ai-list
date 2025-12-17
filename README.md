@@ -39,4 +39,7 @@ Repo ini bersifat dokumentatif dan informatif.
 - [Strategic AI & LLM](lists/strategic-ai.md)
 - [PsyOps & Social Operations AI](lists/psyops-ai.md)
 
+![Status](https://img.shields.io/badge/status-active-green)
+![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
+
  
