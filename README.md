@@ -28,4 +28,15 @@ Fokus repo ini hanya:
 ## Catatan Etika
 
 Repo ini bersifat dokumentatif dan informatif.
+
+## Navigasi Cepat
+
+- [Air Defense & Missile Systems](lists/air-defense.md)
+- [Drone & UAV](lists/drones.md)
+- [Ground Robots & Armored Vehicles](lists/ground-robots.md)
+- [Surveillance & Sensor AI](lists/surveillance-ai.md)
+- [Targeting & Smart Weapons](lists/targeting-ai.md)
+- [Strategic AI & LLM](lists/strategic-ai.md)
+- [PsyOps & Social Operations AI](lists/psyops-ai.md)
+
  
