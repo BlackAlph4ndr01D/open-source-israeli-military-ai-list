@@ -1,6 +1,6 @@
-# Daftar Sistem Militer Israel Berbasis AI (Sumber Terbuka)
+# Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
 
-Repo ini berisi **daftar nama** sistem, proyek, dan program militer Israel yang
+Repo ini berisi **daftar nama** sistem, proyek, dan program militer  Zionis Israel yang
 melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka
 (berita, laporan, analisis publik).
 
@@ -18,29 +18,18 @@ Fokus repo ini hanya:
 - pengelompokan berdasarkan kategori
 - arsip referensi publik
 
-## Struktur
+>>  Catatan Etika :
+ # Repo ini bersifat dokumentatif dan informatif.
 
-- `lists/air-defense.md` – sistem pertahanan udara & rudal
-- `lists/drones.md` – drone & UAV
-- `lists/ground-robots.md` – robot darat & kendaraan tempur
-- `lists/surveillance-ai.md` – AI pengawasan & sensor
-- `lists/targeting-ai.md` – AI targeting & senjata cerdas
-- `lists/strategic-ai.md` – AI strategis & LLM
-- `lists/psyops-ai.md` – AI psikologi & operasi sosial
+##  Struktur Dan Navigasi Cepat
 
-## Catatan Etika
-
-Repo ini bersifat dokumentatif dan informatif.
-
-## Navigasi Cepat
-
-- [Air Defense & Missile Systems](lists/air-defense.md)
-- [Drone & UAV](lists/drones.md)
-- [Ground Robots & Armored Vehicles](lists/ground-robots.md)
-- [Surveillance & Sensor AI](lists/surveillance-ai.md)
-- [Targeting & Smart Weapons](lists/targeting-ai.md)
-- [Strategic AI & LLM](lists/strategic-ai.md)
-- [PsyOps & Social Operations AI](lists/psyops-ai.md)
+- [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal
+- [Drone & UAV](lists/drones.md) – drone & UAV
+- [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur 
+- [Surveillance & Sensor AI](lists/surveillance-ai.md) – AI pengawasan & sensor
+- [Targeting & Smart Weapons](lists/targeting-ai.md) – AI targeting & senjata cerdas
+- [Strategic AI & LLM](lists/strategic-ai.md) – AI strategis & LLM
+- [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial
 
 ![Status](https://img.shields.io/badge/status-active-green)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
