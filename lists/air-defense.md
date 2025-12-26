@@ -22,5 +22,5 @@
 - [Trophy Active](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Trophy-Active) Upgrade 2025 tingkatkan AI buat lawan drone dan top-attack (ancaman dari atas).
 - [Python-5](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Python-5) dirancang buat tangani pesawat musuh, drone, dan ancaman lain dengan kemampuan peluncuran full-sphere (bisa tembak ke segala arah, bahkan ke belakang)
 - [Derby](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Derby) Derby pake AI buat prediksi gerak target,
-- [AEGIS]()
+- [AEGIS](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AEGIS) Ini sistem radar dan komando buat deteksi, lacak, dan intercept ancaman seperti rudal balistik, rudal cruise, pesawat, dan drone. 
     
