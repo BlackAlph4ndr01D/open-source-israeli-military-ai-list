@@ -12,12 +12,13 @@
 ---
 
 # 📖 Pendahuluan
-Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis Israel**.  
 
-- Repo ini lahir dari **kolaborasi manusia + AI** dengan data **open source**.  
-- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
-- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
-- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
+Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis Israel**.
+
+- Repo ini lahir dari **kolaborasi manusia + AI**, dengan data yang bersumber dari **open source**.
+- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.
+- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.
+- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.
 
 > Semua konten bersifat **open source**, dapat diakses dan digunakan untuk tujuan edukasi dan advokasi.  
 > Dokumentasi ini bukan instruksi operasional militer, melainkan analisis teknis dan narasi kritis.
@@ -25,30 +26,30 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis
 ---
 
 # 🔗 Eksplorasi Lebih Lanjut
+
 - 📚 **[Wiki Dokumentasi](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki)**  
-  Jelajahi halaman Wiki untuk detail teknis, analitik, dan catatan bahasa.  
+  Jelajahi halaman Wiki untuk detail teknis, analitik, dan catatan bahasa.
+
+- 📂 Catatan Tambahan:
+  - [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)
+  - [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)
+  - [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)
 
 ---
 
-# 📚 Catatan Tambahan
-- [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)  
-- [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)  
-- [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)  
-
----
-
-<div style="display:flex; gap:20px;">
+<div style="display:flex; gap:20px; align-items:flex-start;">
 
 <!-- Main content -->
 <div style="flex:3;">
 
 ### ⚙️ Infrastruktur Global
-Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.  
+
+Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
 
 </div>
 
 <!-- Sidebar kanan -->
-<div style="flex:1; max-width:250px;">
+<div style="flex:1; max-width:260px;">
 
 <div style="background:#e0f7ff; padding:12px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
 🌐 <b>Peran Raksasa Teknologi</b>
@@ -69,7 +70,8 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 ---
 
 # 🗂️ Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
-Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israel yang melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka (berita, laporan, analisis publik).  
+
+Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israel yang melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka (berita, laporan, analisis publik).
 
 **Kata kunci:**  
 `#PALESTINE #AI #military-ai #israel #surveillance #targeting #ethics #human-rights #zionis`
@@ -85,11 +87,12 @@ Fokus repo ini hanya:
 - pengelompokan berdasarkan kategori  
 - arsip referensi publik  
 
-> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.  
+> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.
 
 ---
 
 ## 📂 Struktur & Navigasi Cepat
+
 - [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal  
 - [Drone & UAV](lists/drones.md) – drone & UAV  
 - [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur  
