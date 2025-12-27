@@ -77,12 +77,9 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis
 ---
  
 
-### ⚙️ Infrastruktur Global
-
-Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
----
-## 🌐 Peran Raksasa Teknologi
-
+ 
+## 🌐 Peran Perusahaan BigTech
+Keterlibatan Bigtech sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
 - [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus))
 - [Amazon (AWS)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
 - [Microsoft (Azure)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
@@ -91,10 +88,7 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 - [Nvidia & Intel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip))
 - [Cisco](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco)
 
-
-</div>
-</div>
-
+ 
 ---
 
 # 🗂️ Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
