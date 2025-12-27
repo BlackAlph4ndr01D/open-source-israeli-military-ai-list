@@ -25,13 +25,13 @@ Tujuan utama repo ini adalah:
 - [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)  
 - [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)
 - Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti Lavender atau Where’s Daddy? tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi. Berikut adalah  peran raksasa teknologi dunia dalam ekosistem ini:
-1. Google (Project Nimbus) 
-2. Amazon (AWS - Amazon Web Services)
-3. Microsoft (Azure & Penahanan Data)
-4. Palantir (Analitik Prediktif)
-5. Meta (WhatsApp & Instagram sebagai Sumber Data)
-6. Nvidia & Intel (Perangkat Keras/Chip)
- 
+1. [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus)) 
+2. [Amazon (AWS - Amazon Web Services)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
+3. [Microsoft (Azure & Penahanan Data)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
+4. [Palantir (Analitik Prediktif)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif))
+5. [Meta (WhatsApp & Instagram sebagai Sumber Data)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data))
+6. [[Nvidia & Intel (Perangkat Keras/Chip)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip))
+7. [Cisc0](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco) 
 
 
 
