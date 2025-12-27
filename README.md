@@ -6,16 +6,7 @@
 <ul style="list-style:none; padding-left:0; margin:0;">
   <li>🕊️ <b>Tewas:</b> 71,266</li>
   <li>💔 <b>Terluka:</b> 171,219</li>
-</ul>
-
-
-
- 
-
-</div>
-
-
-</div>
+</ul> 
 
  
 ![Last Commit](https://img.shields.io/github/last-commit/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel?style=for-the-badge)
