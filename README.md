@@ -1,5 +1,28 @@
-### 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
+##  🌍 Arsip Hidup: Daftar Militer AI yang digunakan oleh zionist Israel sebagai tekhnologi pendukung Genosida di Gaza dan Pencaplokan Wilayah Tepi Barat, PALESTINA  
 
+<div align="right" style="background:#2c2c2c; color:#ffffff; padding:16px; border-radius:12px; width:240px; float:right; margin:10px;">
+
+<div align="center" style="background:#2c2c2c; color:#ffffff; padding:16px; border-radius:12px; width:280px; margin:20px auto;">
+
+<div align="center" style="background:#2c2c2c; color:#ffffff; padding:16px; border-radius:12px; width:280px; margin:20px auto;">
+
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 27 Desember 2025</h3>
+
+<ul style="list-style:none; padding-left:0; margin:0;">
+  <li>🕊️ <b>Tewas:</b> 71,266</li>
+  <li>💔 <b>Terluka:</b> 171,219</li>
+</ul>
+
+
+
+ 
+
+</div>
+
+
+</div>
+
+ 
 ![Last Commit](https://img.shields.io/github/last-commit/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=for-the-badge)
