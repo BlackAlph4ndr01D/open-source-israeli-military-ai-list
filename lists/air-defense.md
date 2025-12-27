@@ -68,6 +68,7 @@
 
 - 🛰️ [AEGIS](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AEGIS)  
   Sistem radar & komando untuk deteksi, tracking, & intercept ancaman (rudal balistik, cruise, pesawat, drone).  
-[![⬅️ Back to >> lists](https://img.shields.io/badge/Back_to-lists-blueviolet?style=for-the-badge)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/tree/main/lists)
+[⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
+
   
   
