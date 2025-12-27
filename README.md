@@ -1,5 +1,11 @@
 # 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
 
+![Last Commit](https://img.shields.io/github/last-commit/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-green?style=for-the-badge)
+![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=for-the-badge)
+
+---
+
 <div align="center">
 <img alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" style="max-width:100%; height:auto; border-radius:10px;" />
 </div>
@@ -15,10 +21,10 @@
 
 Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis Israel**.
 
-- Repo ini lahir dari **kolaborasi manusia + AI**, dengan data yang bersumber dari **open source**.
-- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.
-- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.
-- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.
+- Repo ini lahir dari **kolaborasi manusia + AI**, dengan data yang bersumber dari **open source**.  
+- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
+- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
+- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
 
 > Semua konten bersifat **open source**, dapat diakses dan digunakan untuk tujuan edukasi dan advokasi.  
 > Dokumentasi ini bukan instruksi operasional militer, melainkan analisis teknis dan narasi kritis.
@@ -61,7 +67,6 @@ Narasi atau penjelasan kamu tetap di sini. Sidebar di kanan akan tampil sebagai 
 </div>
 </div>
 
-
 ---
 
 <div style="display:flex; gap:20px; align-items:flex-start;">
@@ -81,13 +86,13 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 <div style="background:#e0f7ff; padding:12px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
 🌐 <b>Peran Raksasa Teknologi</b>
 <ul>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus)">Google (Project Nimbus)</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services)">Amazon (AWS)</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data)">Microsoft (Azure)</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif)">Palantir</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data)">Meta</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip)">Nvidia & Intel</a></li>
-<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco">Cisco</a></li>
+<li>Google (Project Nimbus)</li>
+<li>Amazon (AWS)</li>
+<li>Microsoft (Azure)</li>
+<li>Palantir</li>
+<li>Meta</li>
+<li>Nvidia & Intel</li>
+<li>Cisco</li>
 </ul>
 </div>
 
@@ -103,6 +108,8 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 **Kata kunci:**  
 `#PALESTINE #AI #military-ai #israel #surveillance #targeting #ethics #human-rights #zionis`
 
+---
+
 ## <span style="color:red; font-family:Arial; font-weight:bold;">Repo ini TIDAK berisi:</span>
 
 <ul style="color:red; font-family:Arial;">
@@ -111,23 +118,20 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
   <li>cara membuat atau mengoperasikan senjata</li>
   <li>optimisasi sistem senjata</li>
 </ul>
- 
 
-> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.
- Yang berfokus pada : dokumentasi nama  >> pengelompokan berdasarkan kategori  >> arsip referensi publik  
- 
-
-## 📂 Struktur & Navigasi Cepat
-
-- [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal  
-- [Drone & UAV](lists/drones.md) – drone & UAV  
-- [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur  
-- [Surveillance & Sensor AI](lists/surveillance-ai.md) – AI pengawasan & sensor  
-- [Targeting & Smart Weapons](lists/targeting-ai.md) – AI targeting & senjata cerdas  
-- [Strategic AI & LLM](lists/strategic-ai.md) – AI strategis & LLM  
-- [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
+> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.  
+> Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publik.
 
 ---
 
-![Status](https://img.shields.io/badge/status-active-green)
-![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
+## 📂 Struktur & Navigasi Cepat
+
+- 🚀 [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal  
+- ✈️ [Drone & UAV](lists/drones.md) – drone & UAV  
+- 🤖 [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur  
+- 👁️ [Surveillance & Sensor AI](lists/surveillance-ai.md) – AI pengawasan & sensor  
+- 🎯 [Targeting & Smart Weapons](lists/targeting-ai.md) – AI targeting & senjata cerdas  
+- 🧠 [Strategic AI & LLM](lists/strategic-ai.md) – AI strategis & LLM  
+- 🗣️ [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
+
+---
