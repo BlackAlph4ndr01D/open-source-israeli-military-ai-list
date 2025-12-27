@@ -89,21 +89,16 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 
 </div>
 
-<!-- Sidebar kanan -->
-<div style="flex:1; max-width:260px;">
+## 🌐 Peran Raksasa Teknologi
 
-<div style="background:#e0f7ff; padding:12px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-🌐 <b>Peran Raksasa Teknologi</b>
-<ul>
-<li>Google (Project Nimbus)</li>
-<li>Amazon (AWS)</li>
-<li>Microsoft (Azure)</li>
-<li>Palantir</li>
-<li>Meta</li>
-<li>Nvidia & Intel</li>
-<li>Cisco</li>
-</ul>
-</div>
+- [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus))
+- [Amazon (AWS)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
+- [Microsoft (Azure)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
+- [Palantir](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif))
+- [Meta - Instagram - Facebook - Whatsapp](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data))
+- [Nvidia & Intel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip))
+- [Cisco](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco)
+
 
 </div>
 </div>
@@ -115,7 +110,7 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israel yang melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka (berita, laporan, analisis publik).
 
 **Kata kunci:**  
-`#PALESTINE #AI #military-ai #israel #surveillance #targeting #ethics #human-rights #zionis`
+`#PALESTINE #AI #militaryAI #GazaGenocide #WestBankUnderAttack #FREEPALESTINE #ethics #HumanRights #zionist`
 
 ---
 
