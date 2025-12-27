@@ -1,12 +1,12 @@
 # Drone & UAV (Israel)
 
 - [Heron TP](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP) Drone ntuk pengawasan, pengintaian, dan serangan presisi  dengan analisis visual.
-- Heron TP-M  
-- Heron Series
+- [Heron TP-M](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP-M)  dengan kemampuan deteksi kapal, identifikasi ancaman, dan relay komunikasi, dan jadi bagian dari  UAV zionist Israel untuk lindungin kapal zionist israel di laut, termasuk pada agresi militer di Gaza yang meluas ke Laut Merah.
+- [Heron Series](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-Series) dengan kemampuan AI untuk navigasi otomatis dan analisis data, dipakai  zionist israel IDF di agresi militer Gaza untuk monitor, target, dan bombing, 
 - [Orbiter 4](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Orbiter-4)  drone taktis dengan Payload management → memilih sensor aktif sesuai misi.
--  Orbiter 5 
--  ThunderB 
--  ThunderB Precision 
+-  [Orbiter 5](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Orbiter-5) Orbiter 5 bagian dari seri Orbiter yang sudah combat-proven, dengan kemampuan AI untuk navigasi otomatis dan analisis data,
+-  [ThunderB](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ThunderB) drone multi-misi yang bisa loitering munition (kamikaze) atau reconnaissance, fokus ke strike presisi di area urban dengan kemampuan autonomous
+-  [ThunderB Precision](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ThunderB-Precision) ThunderB Precision adalah upgrade dari ThunderB standar, dengan kemampuan AI untuk targeting presisi, dipakai zionist Israel IDF pada Genosida Gaza
 - Skylark 
 - [Harop](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop) dirancang untuk berfungsi sebagai senjata langsung: ia berpatroli di udara, mencari target radar atau elektronik, lalu menabrakkan dirinya untuk menghancurkan target.
 - Harop Loitering
