@@ -1,22 +1,24 @@
-# Drone & UAV (Israel)
+# ✈️ Drone & UAV (Israel)
 
-- [Heron TP](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP) Drone ntuk pengawasan, pengintaian, dan serangan presisi  dengan analisis visual.
-- [Heron TP-M](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP-M)  dengan kemampuan deteksi kapal, identifikasi ancaman, dan relay komunikasi, dan jadi bagian dari  UAV zionist Israel untuk lindungin kapal zionist israel di laut, termasuk pada agresi militer di Gaza yang meluas ke Laut Merah.
-- [Heron Series](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-Series) dengan kemampuan AI untuk navigasi otomatis dan analisis data, dipakai  zionist israel IDF di agresi militer Gaza untuk monitor, target, dan bombing, 
-- [Orbiter 4](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Orbiter-4)  drone taktis dengan Payload management → memilih sensor aktif sesuai misi.
--  [Orbiter 5](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Orbiter-5) Orbiter 5 bagian dari seri Orbiter yang sudah combat-proven, dengan kemampuan AI untuk navigasi otomatis dan analisis data,
--  [ThunderB](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ThunderB) drone multi-misi yang bisa loitering munition (kamikaze) atau reconnaissance, fokus ke strike presisi di area urban dengan kemampuan autonomous
--  [ThunderB Precision](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ThunderB-Precision) ThunderB Precision adalah upgrade dari ThunderB standar, dengan kemampuan AI untuk targeting presisi, dipakai zionist Israel IDF pada Genosida Gaza
-- Skylark 
-- [Harop](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop) dirancang untuk berfungsi sebagai senjata langsung: ia berpatroli di udara, mencari target radar atau elektronik, lalu menabrakkan dirinya untuk menghancurkan target.
-- Harop Loitering
-- Xtend Drone
-- [Skystriker](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/SkyStriker) Drone ini relatif kecil, ringan, dan dapat diluncurkan dari berbagai platform, menjadikannya fleksibel untuk operasi taktis.
-- M.A.L.E UPV
-- [MAGNI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/MAGNI) bagian dari arsenal UAS taktis Israel, efektif buat operasi darat  
-- MAGNI Swarm
-- [Rotem](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Rotem) digunakan untuk menyerang target darat dengan hulu ledak kecil, sekaligus berfungsi sebagai pengintaian
-- [FireFly](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/FireFly) drone kamikaze kecil menggunakan AI buat tracking target real-time, prediksi gerak, dan identifikasi otomatis.
-- Autonomous Drone
-- Viper
-- Eiten (UAV)
+| Nama                | Fungsi / Peran                                                                 | Catatan AI                                                                 |
+|---------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 🛰️ ![Heron TP](https://img.shields.io/badge/Heron%20TP-blueviolet?style=flat&logo=drone&colorA=0000ff&colorB=8A2BE2) | Pengawasan, pengintaian, serangan presisi                                  | Analisis visual otomatis                                                    |
+| 🛰️ ![Heron TP-M](https://img.shields.io/badge/Heron%20TP--M-blue?style=flat&logo=drone&colorA=1E90FF&colorB=9370DB) | Deteksi kapal, identifikasi ancaman, relay komunikasi                     | AI monitoring laut, dipakai agresi Gaza → Laut Merah                        |
+| 🛰️ ![Heron Series](https://img.shields.io/badge/Heron%20Series-lightblue?style=flat&logo=drone&colorA=00BFFF&colorB=8A2BE2) | UAV seri untuk monitoring, targeting, bombing                             | AI navigasi otomatis & analisis data                                        |
+| 🚁 ![Orbiter 4](https://img.shields.io/badge/Orbiter%204-green?style=flat&logo=drone&colorA=32CD32&colorB=FFD700) | Drone taktis dengan payload management                                    | Pemilihan sensor sesuai misi                                                |
+| 🚁 ![Orbiter 5](https://img.shields.io/badge/Orbiter%205-darkgreen?style=flat&logo=drone&colorA=006400&colorB=ADFF2F) | Combat‑proven, operasi darat                                              | AI navigasi otomatis & analisis data                                        |
+| ⚡ ![ThunderB](https://img.shields.io/badge/ThunderB-orange?style=flat&logo=drone&colorA=FFA500&colorB=FF4500) | Multi‑misi: kamikaze / reconnaissance                                     | Autonomous strike presisi di area urban                                     |
+| ⚡ ![ThunderB Precision](https://img.shields.io/badge/ThunderB%20Precision-red?style=flat&logo=drone&colorA=DC143C&colorB=FF6347) | Upgrade ThunderB standar                                                  | AI targeting presisi, dipakai IDF di Gaza                                   |
+| 🚁 ![Skylark](https://img.shields.io/badge/Skylark-grey?style=flat&logo=drone&colorA=708090&colorB=A9A9A9) | UAV kecil untuk pengintaian                                               | Detail tambahan belum terdokumentasi                                        |
+| ⚡ ![Harop](https://img.shields.io/badge/Harop-purple?style=flat&logo=drone&colorA=800080&colorB=DA70D6) | Loitering munition, menabrakkan diri ke target radar/elektronik           | AI tracking target radar                                                    |
+| ⚡ ![Harop Loitering](https://img.shields.io/badge/Harop%20Loitering-purple?style=flat&logo=drone&colorA=9932CC&colorB=BA55D3) | Varian Harop                                                              | Detail tambahan belum terdokumentasi                                        |
+| 🚁 ![Xtend Drone](https://img.shields.io/badge/Xtend%20Drone-grey?style=flat&logo=drone&colorA=696969&colorB=C0C0C0) | Drone taktis                                                              | Detail tambahan belum terdokumentasi                                        |
+| ⚡ ![SkyStriker](https://img.shields.io/badge/SkyStriker-pink?style=flat&logo=drone&colorA=FF69B4&colorB=FF1493) | Drone kecil, ringan, fleksibel untuk operasi taktis                       | AI navigasi & targeting                                                     |
+| 🛰️ ![M.A.L.E UPV](https://img.shields.io/badge/MALE%20UPV-lightgrey?style=flat&logo=drone&colorA=D3D3D3&colorB=A9A9A9) | Medium Altitude Long Endurance UAV                                        | Detail tambahan belum terdokumentasi                                        |
+| 🚁 ![MAGNI](https://img.shields.io/badge/MAGNI-teal?style=flat&logo=drone&colorA=008080&colorB=20B2AA) | UAS taktis untuk operasi darat                                            | AI navigasi otomatis                                                        |
+| 🚁 ![MAGNI Swarm](https://img.shields.io/badge/MAGNI%20Swarm-teal?style=flat&logo=drone&colorA=2E8B57&colorB=3CB371) | Varian swarm                                                              | Detail tambahan belum terdokumentasi                                        |
+| ⚡ ![Rotem](https://img.shields.io/badge/Rotem-brown?style=flat&logo=drone&colorA=8B4513&colorB=A0522D) | Serangan darat dengan hulu ledak kecil + pengintaian                      | AI tracking target                                                          |
+| ⚡ ![FireFly](https://img.shields.io/badge/FireFly-yellow?style=flat&logo=drone&colorA=FFD700&colorB=FFA500) | Drone kamikaze kecil                                                      | AI tracking real‑time, prediksi gerak, identifikasi otomatis                |
+| 🚁 ![Autonomous Drone](https://img.shields.io/badge/Autonomous%20Drone-grey?style=flat&logo=drone&colorA=808080&colorB=A9A9A9) | UAV otonom                                                                | Detail tambahan belum terdokumentasi                                        |
+| 🚁 ![Viper](https://img.shields.io/badge/Viper-grey?style=flat&logo=drone&colorA=2F4F4F&colorB=696969) | UAV taktis                                                                | Detail tambahan belum terdokumentasi                                        |
+| 🛰️ ![Eiten](https://img.shields.io/badge/Eiten%20UAV-lightblue?style=flat&logo=drone&colorA=00CED1&colorB=4682B4) | UAV besar                                                                 | Detail tambahan belum terdokumentasi                                        |
