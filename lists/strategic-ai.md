@@ -1,19 +1,23 @@
-# Strategic AI & LLM (Israel)
+### Strategic AI & LLM (Zionist Israel)
 
-- Unit 8200 LLM
-- Unit 8200 Arabic LLM
-- LLM Unit 8200
-- Unnamed LLM
-- Project Nimbus AI
-- Project Maven
-- Palantir
-- Gotham
-- Anduril
-- Moon Shot
-- Nebius
-- Pegasus
-- Orion
-- Genie
+## 📊 Tabel Komparatif: Intelligence & Platform AI (Zionist Israel)
+
+| **Nama AI**            | **Deskripsi/Peran**                                      |
+|---------------------------------------|----------------------------------------------------------|
+| Unit 8200 LLM 📚🤖                    | Model bahasa besar dikembangkan oleh Unit 8200 untuk analisis intelijen. |
+| Unit 8200 Arabic LLM 🕌📖              | Versi LLM khusus bahasa Arab untuk operasi pengawasan & intelijen. |
+| LLM Unit 8200 🧠💻                     | Model bahasa besar generik untuk Unit 8200.              |
+| Unnamed LLM ❓🤖                       | Proyek LLM tanpa nama resmi, digunakan untuk eksperimen intelijen. |
+| Project Nimbus AI ☁️🤖                 | Kolaborasi cloud AI dengan Google & Amazon untuk Israel. |
+| Project Maven 🎥🧠                     | Sistem analisis video berbasis AI untuk target militer.  |
+| Palantir 🕵️💻                         | Platform analitik data besar untuk intelijen & militer.  |
+| Gotham 🏙️🔍                          | Produk Palantir untuk pengawasan populasi & analisis data. |
+| Anduril 🛡️🤖                          | Perusahaan AI pertahanan, sistem drone & sensor otomatis. |
+| Moon Shot 🌙🚀                         | Proyek ambisius AI untuk strategi militer jangka panjang. |
+| Nebius 🌐⚡                           | Infrastruktur cloud & AI untuk komputasi skala besar.    |
+| Pegasus 🐎📱                          | Spyware terkenal untuk infiltrasi perangkat mobile.      |
+| Orion 🌌📡                            | Sistem sensor & satelit berbasis AI untuk pengawasan.    |
+| Genie 🧞‍♂️💻                         | Chatbot intelijen mirip ChatGPT untuk analisis data & sensor. |
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
-
+  
