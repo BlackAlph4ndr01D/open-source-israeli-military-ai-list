@@ -2,7 +2,7 @@
 
 ## 📊 Tabel Komparatif: Robot & Sistem Militer AI Israel (dengan Emoji)
 
-| **Nama/Model** | **Emoji** | **Deskripsi/Peran** |
+| **Nama/Model** |   | **Deskripsi/Peran** |
 |----------------|-----------|---------------------|
 | [DogoBot](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Dogo-Robot) | 🐕🤖 | Robot kecil portabel, pengintaian & opsi bersenjata. |
 | DogoBot Mk2    | 🐕⚙️ | Versi lanjutan dengan peningkatan fitur. |
