@@ -42,7 +42,7 @@
 - 🚁 [MAGNI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/MAGNI)  
   UAS taktis Israel, efektif untuk operasi darat.  
 
-- 🚁 MAGNI Swarm  
+- 🚁 [MAGNI Swarm]()  
   (varian swarm, detail tambahan belum terdokumentasi).  
 
 - ⚡ [Rotem](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Rotem)  
@@ -51,13 +51,13 @@
 - ⚡ [FireFly](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/FireFly)  
   Drone kamikaze kecil. AI untuk tracking target real‑time, prediksi gerak, & identifikasi otomatis.  
 
-- 🚁 Autonomous Drone  
-  (informasi tambahan belum terdokumentasi).  
+- 🚁 [Autonomous Drone](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Autonomous-Drone))  
+  (Integrasi dengan sistem untuk tipping cueing, buat drone lebih pintar di misi autonomous.).  
 
-- 🚁 Viper  
-  (informasi tambahan belum terdokumentasi).  
+- 🚁 [Viper](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Viper)  
+  (Viper punya kemampuan AI targeting presisi,   bagian dari arsenal tech militer xionits Israel untuk agresi militer di Gaza).  
 
-- 🛰️ Eiten (UAV)  
-  (informasi tambahan belum terdokumentasi).  
+- 🛰️ [Eiten (UAV)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Eiten-(UAV))  
+  ( Digunakan secara luas oleh Pasukan Zionist IDF pada agresi militer Gaza untuk monitor area luas dan menargetkan pejuang perlawanan,).  
     
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
