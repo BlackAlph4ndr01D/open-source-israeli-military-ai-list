@@ -11,7 +11,7 @@
 | 🎯 DeepFake Hunter       | Identifikasi & pelacakan deepfake | Tidak jelas | Fokus pada perang informasi |
 | 👨‍👧 Where’s Daddy?       | Targeting individu di rumah | 2023 | Digunakan untuk serangan rumah tangga di Gaza |
 | 📖 Gospel                | AI rekomendasi target bangunan | 2021 | Menentukan target bombing dari data surveilans |
-| ✝️ Gospel Mark II        | Versi upgrade Gospel | 2022 | Lebih cepat dalam rekomendasi target |
+| 📜 Gospel Mark II        | Versi upgrade Gospel | 2022 | Lebih cepat dalam rekomendasi target |
 | 📜 Habsora (Gospel)      | Target recommendation otomatis | 2021 | Digunakan luas dalam perang Gaza |
 | 🏛️ HaOrgan               | Analisis data intelijen | Tidak jelas | Fokus pada integrasi data sensor |
 | ⚗️ The Alchemist         | Analisis prediktif serangan | Tidak jelas | Dipakai untuk strategi militer |
