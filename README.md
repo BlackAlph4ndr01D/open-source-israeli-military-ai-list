@@ -133,5 +133,5 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
   
 ## 📊 Statistik Repo
 
-- 🌀 **Clones:** 302  
-- 👁️ **Views:** 1,841  
+- 🌀 **Clones:** 380  
+- 👁️ **Views:** 1,999     
