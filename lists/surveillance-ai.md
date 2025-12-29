@@ -8,12 +8,12 @@
 | [Corsight Facial](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Corsight-Facial) 👤📷                  | Sistem pengenalan wajah dengan akurasi tinggi.           |
 | [Facial Recognition](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Facial-Recognition) 🧑🔍               | Identifikasi individu melalui fitur wajah.               |
 | [Audio Location AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Audio-Location-AI) 🎤📡                | Deteksi lokasi berdasarkan sumber suara.                 |
-| Audio Location Pro 🎧📍               | Versi lanjutan dengan akurasi lebih tinggi.              |
-| Audio Location TOD 🔊🕒               | Analisis suara dengan timestamp untuk pelacakan.         |
-| Meta AI Sensor 🌐📱                   | Sensor berbasis data sosial media.                       |
+| [Audio Location Pro](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Audio-Location-Pro) 🎧📍               | Versi lanjutan dengan akurasi lebih tinggi.              |
+| [Audio Location TOD](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Audio-Location-TOD) 🔊🕒               | Analisis suara dengan timestamp untuk pelacakan.         |
+| [Meta AI Sensor](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-AI-Sensor) 🌐📱                   | Sensor berbasis data sosial media.                       |
 | [Social Media AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Social-Media-AI) 💬🤖                  | Analisis aktivitas sosial media untuk intelijen.         |
-| Social Media Dox 📲🕵️                | Pengumpulan & pengungkapan data pribadi dari media sosial.|
-| AI Radar 📡🤖                         | Radar berbasis AI untuk deteksi objek.                   |
+| [Social Media Dox](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Social-Media-Dox) 📲🕵️                | Pengumpulan & pengungkapan data pribadi dari media sosial.|
+| [AI Radar](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AI-Radar) 📡🤖                         | Radar berbasis AI untuk deteksi objek.                   |
 | Quantum Radar ⚛️📡                    | Radar generasi baru dengan teknologi kuantum.            |
 | AI Cyber 💻🛡️                        | Sistem pertahanan & serangan siber berbasis AI.          |
 | Cyber AI Nexus 🌐🔒                   | Platform integrasi keamanan siber dengan AI.             |
@@ -28,4 +28,4 @@
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
       
- 
+  
