@@ -20,7 +20,7 @@
 | [Edge 360](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Edge-360) 🛰️🔭                        | Sistem pengawasan 360° berbasis edge computing.          |
 | [Heart Print](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heart-Print) ❤️🔍                      | Identifikasi individu melalui pola detak jantung.        |
 | [Map It](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Map-It) 🗺️📍                          | Pemetaan lokasi target secara digital.                   |
-| Flow 🔄📊                             | Analisis aliran data & pergerakan.                       |
+| [Flow](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Flow) 🔄📊                             | Analisis aliran data & pergerakan.                       |
 | [FRT](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/FRT) 👁️🧠                             | Facial Recognition Technology untuk kontrol populasi.    |
 | [Z Tube](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Z-Tube) 📹📡                           | Sistem pengawasan berbasis video streaming.              |
 | [Guardian](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Guardian) 🛡️👁️                       | AI pengawas ancaman real‑time.                           |
@@ -29,3 +29,4 @@
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
       
   
+   
