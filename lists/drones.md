@@ -1,4 +1,4 @@
-# ✈️ Drone & UAV (Israel)
+# ✈️ Drone & UAV (Zionist Israel)
 
 - 🛰️ [Heron TP](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP)  
   Drone untuk pengawasan, pengintaian, dan serangan presisi dengan analisis visual.  
