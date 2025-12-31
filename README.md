@@ -131,16 +131,16 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 - 🗣️ [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
 
 ---
-![Terima Kasih Cloners](https://img.shields.io/badge/%F0%9F%8E%89%20Terima%20Kasih%20Cloners-552%20Clones-ff69b4?style=for-the-badge&logo=github&logoColor=white&colorA=ff69b4&colorB=800080)
+![Terima Kasih Cloners](https://img.shields.io/badge/%F0%9F%8E%89%20Terima%20Kasih%20Cloners-552%20Clones%20|%20327%20Cloners-white?style=for-the-badge&logo=github&logoColor=white&colorA=000000&colorB=000000)
 ![Repo Views](https://img.shields.io/badge/%F0%9F%91%80%20Repo%20Views-2,496-blue?style=for-the-badge&logo=github&logoColor=white&colorA=0000ff&colorB=00ffff)
 
 
 
 
-## 🧭 Fokus Hari Ini >> 31 Desember 2025
+## 🧭 Fokus Hari Ini >> 1 Januari 2026
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
-🔗 <strong>Abu Ubaidah</strong><br><br>
-Banyak cara untuk tetap mendukung kebebasan Palestina, tapi sebelumnya...bebeaskan dirimu sendiri dulu. 
+❤️ <strong>Catatanku</strong><br><br>
+Jika diri merasa sendiri, ALLOH tidak pernah meninggalkan manusia dalam kesendirian .
 </div>
 
