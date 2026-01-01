@@ -5,8 +5,8 @@
 | ⚙️ Sistem AI            | 🎯 Fungsi Utama | 🗓️ Tahun Rilis | 🌍 Catatan / Konteks |
 |--------------------------|----------------|----------------|----------------------|
 | 🧠 [[PsyOps AI]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Psyops-AI-notes)             | Operasi psikologis berbasis AI | Tidak jelas | Dipakai untuk propaganda & manipulasi opini publik |
-| 👮 Predictive Policing   | Prediksi kriminalitas dengan data AI | ~2020 | Digunakan di Tepi Barat untuk kontrol populasi |
-| 🚓 Predictive Arrest     | Prediksi individu yang akan ditangkap | ~2020 | Kritik: melanggar HAM, berbasis profiling |
+| 👮 [[Predictive Policing]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Predictive-Policing)   | Prediksi kriminalitas dengan data AI | ~2020 | Digunakan di Tepi Barat untuk kontrol populasi |
+| 🚓 [[Predictive Arrest]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Predictive-Arrest)     | Prediksi individu yang akan ditangkap | ~2020 | Kritik: melanggar HAM, berbasis profiling |
 | 🕵️ DeepFake Detector     | Deteksi konten deepfake | Tidak jelas | Dipakai untuk kontra-propaganda |
 | 🎯 DeepFake Hunter       | Identifikasi & pelacakan deepfake | Tidak jelas | Fokus pada perang informasi |
 | 👨‍👧 [[Where’s Daddy]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Where's-Daddy)?       | Targeting individu di rumah | 2023 | Digunakan untuk serangan rumah tangga di Gaza |
@@ -29,3 +29,4 @@
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
 
+    
