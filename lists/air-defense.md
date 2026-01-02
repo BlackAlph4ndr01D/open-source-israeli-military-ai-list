@@ -1,4 +1,8 @@
-# 🛡️ Air Defense & Missile Systems (Zionist Israel)
+# 🛡️ Air Defense & Missile Systems  **Military AI Israel**  
+
+###  Repo Ini menyajikan daftar sistem **Military AI Israel**:
+  mulai dari pertahanan udara, drone, algoritmik, psyops, hingga sensor dan infrastruktur big tech.  
+Tujuannya bukan sebagai sumber resmi, melainkan arsip terbuka untuk dokumentasi, riset, dan dukungan terhadap kebabasan PALESTINA.
 
 - 🚀 [Arrow 3](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Arrow-3)  
   Tidak disebut eksplisit "AI", tapi bergantung pada algoritma canggih & pemrosesan otomatis untuk diskriminasi ancaman real-time.  
