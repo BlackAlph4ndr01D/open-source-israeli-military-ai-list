@@ -13,7 +13,7 @@
 |  [Black Thunder](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Black-Thunder)  ⚡💣                     | Sistem serangan AI dengan daya ledak tinggi.             |
 | [Bullseye](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Bullseye-(Rudal-AI)) 🎯🐂                         | AI targeting system dengan akurasi ekstrem.              |
 | [Fire Factory](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Fire-Factory) 🏭🔥                     | Platform produksi & koordinasi serangan berbasis AI.     |
-| Hunter 🐺🔍                          | Sistem AI untuk pelacakan & eliminasi target.            |
+| [[Hunter]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hunter) 🐺🔍                          | Sistem AI untuk pelacakan & eliminasi target.            |
 
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
