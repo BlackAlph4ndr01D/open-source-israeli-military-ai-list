@@ -3,11 +3,11 @@
 ##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
 ---
  
-<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 31 Desember 2025</h3>
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 3 Januari 2026</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Syahid:</b> 71,269</li>
-  <li>💔 <b>Terluka:</b> 171,232</li>
+  <li>🕊️ <b>Syahid:</b> 71,384</li>
+  <li>💔 <b>Terluka:</b> 171,251</li>
 </ul> 
 
  
@@ -137,10 +137,10 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 
 
 
-## 🧭 Fokus Hari Ini >> 1 Januari 2026
+## 🧭 Fokus Hari Ini >> 3 Januari 2026
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
 ❤️ <strong>Catatanku</strong><br><br>
-Jika diri merasa sendiri, ALLOH tidak pernah meninggalkan manusia dalam kesendirian .
+Laksanakan sholat 5 waktu tepat pada waktunya, agar semakin dekat kepada ALLOH azza wa jalla . ALLOH Maha Pengasih Maha Penyayang
 </div>
 
